@@ -14,7 +14,7 @@ The term was coined as recently as 2008 when companies realized the need for dat
 
 
 ### Data Science Lifecycle
-<Image>
+![Data Science Lifecycle](./Data_Science_Lifecycle.png)
 
 
 ### Components of Data Science
