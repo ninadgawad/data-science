@@ -3,7 +3,7 @@ Data Science is an inter-disciplinary field that uses scientific methods, proces
 
 The term was coined as recently as 2008 when companies realized the need for data professionals who are skilled in organizing and analyzing massive amounts of data. In a 2009 McKinsey&Company article, Hal Varian, Google’s chief economist and UC Berkeley professor of information sciences, business, and economics, predicted the importance of adapting to technology’s influence and reconfiguration of different industries
 
-Key technical tools and skills, including:
+### Key technical tools and skills, including:
 - Python
 - Apache Spark
 - NoSQL databases
@@ -11,6 +11,10 @@ Key technical tools and skills, including:
 - Apache Hadoop
 - S3
 - MIS Dashboards
+
+
+### Data Science Lifecycle
+<Image>
 
 
 ### Components of Data Science
